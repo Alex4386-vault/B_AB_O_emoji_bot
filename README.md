@@ -2,8 +2,8 @@
 The ultimate 🅱️🆎🅾️_bot.  
 
 ## What is this?
-This is a bot that changes your 바보 or babo into awesome 🅱️🆎🅾️ by @Baw-AppIe.  
-It also contains various memes from @Stella-IT, so you can have good time~  
+This is a bot that changes your 바보 or babo into awesome 🅱️🆎🅾️ by [@Baw-AppIe](https://github.com/Baw-AppIe).  
+It also contains various memes from [@Stella-IT](https://github.com/Stella-IT), so you can have good time~  
 
 ## What are the stuff it provides?  
 Automatic 🅱️🆎🅾️ Conversion.  
